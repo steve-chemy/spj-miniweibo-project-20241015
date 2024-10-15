@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-blue-50;
+}
+
+#root {
+  @apply max-w-2xl mx-auto p-4;
+}
